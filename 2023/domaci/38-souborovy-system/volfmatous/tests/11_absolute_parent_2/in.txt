@@ -1,0 +1,2 @@
+/Earth/Africa/
+/Earth/Europe/../Europe/Spain/Barcelona/../../Egypt/

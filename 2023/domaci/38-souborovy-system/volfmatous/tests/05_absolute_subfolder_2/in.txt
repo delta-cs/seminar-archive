@@ -1,0 +1,2 @@
+/universe/galaxies/milky/systems/solar/
+/universe/galaxies/milky/
