@@ -1,0 +1,36 @@
+hacker
+- code
+  - subfolder1
+    - subsubfolder1
+      - subsubsubfolder1
+        - subsubsubsubfolder1
+          - subsubsubsubsubfolder1
+            - subsubsubsubsubsubfolder1
+              - subsubsubsubsubsubsubfolder1
+                - subsubsubsubsubsubsubsubfolder1
+- documents
+  - subfolder3
+    - subsubfolder3
+      - subsubsubfolder3
+        - subsubsubsubfolder3
+          - subsubsubsubsubfolder3
+            - subsubsubsubsubsubfolder3
+              - subsubsubsubsubsubsubfolder3
+                - subsubsubsubsubsubsubsubfolder3
+- pictures
+  - subfolder4
+    - subsubfolder4
+      - subsubsubfolder4
+        - subsubsubsubfolder4
+          - subsubsubsubsubfolder4
+            - subsubsubsubsubsubfolder4
+- projects
+  - subfolder2
+    - subsubfolder2
+      - subsubsubfolder2
+        - subsubsubsubfolder2
+          - subsubsubsubsubfolder2
+            - subsubsubsubsubsubfolder2
+              - subsubsubsubsubsubsubfolder2
+                - subsubsubsubsubsubsubsubfolder2
+                  - subsubsubsubsubsubsubsubsubfolder2

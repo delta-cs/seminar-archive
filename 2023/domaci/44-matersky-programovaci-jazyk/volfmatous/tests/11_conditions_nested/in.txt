@@ -1,0 +1,25 @@
+24
+x je 1
+y je 2.1
+z je -3
+
+kdyz x aspon 1 tak
+  y je 7
+  vypsat y
+
+  kdyz y nejvic 7 tak
+    vypsat z
+    z je -1
+
+  kdyz z nejvic -3.1 tak
+    vypsat y
+  kdyz x rovno 1 tak
+    vypsat x
+    x je -99
+    kdyz z rovno -1 tak
+      vypsat x
+      z je 100
+kdyz z aspon 0 tak
+  kdyz x rovno -99 tak
+    x je 100
+    vypsat y

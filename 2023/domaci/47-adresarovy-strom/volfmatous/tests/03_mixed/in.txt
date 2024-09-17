@@ -1,0 +1,16 @@
+/home/hacker
+
+13
+/home/hacker/
+/home/hacker/readme.md
+/home/hacker/important.docx
+/home/hacker/landscape.jpg
+/home/hacker/main.py
+/home/hacker/meeting_notes.docx
+/home/hacker/requirements.txt
+/home/hacker/screenshot.png
+/home/hacker/utils.py
+/home/hacker/code/
+/home/hacker/documents/
+/home/hacker/pictures/
+/home/hacker/projects/

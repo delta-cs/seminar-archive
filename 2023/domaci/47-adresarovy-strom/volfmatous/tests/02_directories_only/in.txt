@@ -1,0 +1,8 @@
+/home/hacker3
+
+5
+/home/hacker3/
+/home/hacker3/code/
+/home/hacker3/projects/
+/home/hacker3/documents/
+/home/hacker3/pictures/

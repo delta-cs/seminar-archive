@@ -1,0 +1,34 @@
+33
+x je 1
+y je 2.1
+z je -3
+
+// komentar
+
+dokud x nejvic 10 tak // komentar
+  x je x a 1
+  vypsat x
+dokud x nejvic 10 tak
+  x je x bez 1
+  vypsat x
+y je 10
+
+// x je 10
+
+// komentar
+kdyz x rovno 11 tak
+  dokud y rovno 10 tak
+    // komentar
+    y je 1
+    x je x bez 1
+    vypsat x
+    // komentar
+    y je 10
+    // komentar
+    kdyz x rovno -1 tak // komentar
+      y je 11
+      // komentar
+  vypsat y
+  // komentar
+vypsat z
+// komentar

@@ -1,0 +1,13 @@
+hacker
+- important.docx
+- landscape.jpg
+- main.py
+- meeting_notes.docx
+- readme.md
+- requirements.txt
+- screenshot.png
+- utils.py
+- code
+- documents
+- pictures
+- projects

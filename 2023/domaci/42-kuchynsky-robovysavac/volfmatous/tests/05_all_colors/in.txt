@@ -1,0 +1,7 @@
+4 3
+n o p
+q r s
+n u v
+x y p
+3 3
+1 1

@@ -1,0 +1,11 @@
+hacker2
+- important.docx
+- main.py
+- meeting_notes.docx
+- notes.txt
+- project1_README.md
+- project1_requirements.txt
+- project2_README.md
+- project2_requirements.txt
+- resume.pdf
+- utils.py

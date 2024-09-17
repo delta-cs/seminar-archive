@@ -1,0 +1,23 @@
+22
+x je 1
+y je 2.1
+z je -3
+
+dokud x nejvic 10 tak
+  x je x a 1
+  vypsat x
+dokud x nejvic 10 tak
+  x je x bez 1
+  vypsat x
+y je 10
+
+kdyz x rovno 11 tak
+  dokud y rovno 10 tak
+    y je 1
+    x je x bez 1
+    vypsat x
+    y je 10
+    kdyz x rovno -1 tak
+      y je 11
+  vypsat y
+vypsat z

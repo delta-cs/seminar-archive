@@ -1,0 +1,2 @@
+a2b c2d e2fgh i6jkl m2n
+decompress

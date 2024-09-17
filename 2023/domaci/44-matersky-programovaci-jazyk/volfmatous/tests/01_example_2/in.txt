@@ -1,0 +1,17 @@
+16
+cislo je 5
+vypsat cislo
+
+vypsat cislo2 // promenna neexistuje
+
+kdyz cislo aspon 10
+  cislo3 je 2
+vypsat cislo3 // promenna neexistuje
+
+nebo je 5 // chybne pojmenovani klicovym slovem
+
+kdyz cislo rovno 6 // chybi slovo tak
+  vypsat 3
+
+kdyz cislo nebo cislo2 rovno aspon 6 nebo tak // nesmyslny logicky vyraz
+  vypsat 3

@@ -1,0 +1,18 @@
+17
+x je 1
+y je 2.1
+z je -3
+
+kdyz x aspon 1 tak
+  y je 7
+  vypsat y
+
+kdyz y nejvic 7 tak
+  z je 0
+  vypsat z
+
+kdyz z nejvic -1 tak
+  vypsat y
+kdyz x rovno 1 tak
+  vypsat x
+  x je -99

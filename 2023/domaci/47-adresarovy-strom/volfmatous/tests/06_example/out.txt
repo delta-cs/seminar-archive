@@ -1,0 +1,21 @@
+hacker
+- documents
+  - driving_license.pdf
+  - letter.txt
+  - program.cs
+  - agreements
+    - non_disclosure.pdf
+  - school
+    - assignment.pdf
+    - solution.pdf
+  - taxes
+    - 2024
+      - may.csv
+    - 2025
+- pictures
+  - landscape.jpg
+  - screenshot.png
+  - edited
+    - img_2024_04_29.jpg
+  - raw
+    - img_2024_04_29.nef

@@ -1,0 +1,14 @@
+/home/hacker2
+
+11
+/home/hacker2/
+/home/hacker2/notes.txt
+/home/hacker2/resume.pdf
+/home/hacker2/important.docx
+/home/hacker2/main.py
+/home/hacker2/meeting_notes.docx
+/home/hacker2/utils.py
+/home/hacker2/project1_requirements.txt
+/home/hacker2/project1_README.md
+/home/hacker2/project2_README.md
+/home/hacker2/project2_requirements.txt

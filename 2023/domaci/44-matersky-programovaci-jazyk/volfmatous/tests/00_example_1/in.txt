@@ -1,0 +1,19 @@
+18
+x je 5
+y je -1
+z je x a y bez 3
+
+kdyz y aspon 0 nebo x rovno 4 nebo z nejvic 1 tak
+  p je 4
+
+dokud x bez 1 aspon y a z tak
+  x je x bez 1
+  kdyz y aspon -3 tak
+    y je y bez 1
+    p je p a 1
+    vypsat x
+
+kdyz z rovno 10 tak
+  vypsat neexistujciPromenna // sem se program nedostane takze nevadi
+
+vypsat p a z bez 2

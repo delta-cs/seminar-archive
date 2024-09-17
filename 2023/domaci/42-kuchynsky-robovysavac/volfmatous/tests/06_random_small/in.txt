@@ -1,0 +1,33 @@
+30 30
+g a f f g h i a d f h d b b f c b e g i g f d b a e e c a i
+i i b a d f b c f i d a d e e d b a e i e d e g b g f e h a
+c b c c b i d h f c f b b a d f e f e a b h d d f i g d h g
+a d i f i c f c d a c e b h g a g f c g d b e g e g e f g c
+h d e i h a i e d f i h f i d e i a d i c g b c c h f c a a
+a e c c c a f a d e a b b b a b b a g d f d a f e g c i h e
+g c g b d f h c h i h b g a a d g e e a i f a d i e i f h i
+i e d g f b f i g i g c d g a f g g g h c e i c g a d f c g
+g e a f e h b d b g c e h e f h g c i g b i h e d g e a b b
+g a f h i f a h f f f b e d c i f d f e f f g f g c h e c h
+b c e g g i h a c e b c a b f d d a h g c d c c b e a i c a
+a e e d i a d a a i b h d f f d a g a g d e e h c f h a e e
+g e i b e d f e e a e h h h c g f a g f a g c g c c e e e f
+f i i e e b i c h i b b f i f f h e f i b g b c d i g g b d
+h d h f a d i c d a d d d b c c d d c g f h b d c e c f d a
+c e f b f b g g c d h c e e f e f b b c a h c d d g c g d g
+a b b b i i d b e a f c c d f e h d c c d e c d c e b g b f
+d i d c h b f e c d h a i b g a h e g i g b e h d d h e b h
+i a d e b g b e d i h i i d f g a f b i b b f b c g h a i h
+h c d f d e d d h f e f a b i g d f e g a g c h b g c f c g
+h i b a e f h d i h a c i c a e g a c g i f a b g d f i e c
+d a e h c e b a h e e d e d b b i c e d e f g c h a c h g h
+f h d d a h g d e b f d f f g d f e a d f i f c a f a i i g
+f b h i h d h i h b c f i g f f b c g f h e a g c e g c g d
+c b a f g f f g d b a d f d e c g d f e f g b d i a d f f f
+d c g b c d h c i d g d g c e c d f g e c b a f c i d c a c
+b d d g a i f d a i g e c d e c e a e e h b h e d h a e e b
+d d g f a b c f d i g b a i f a i i d b i g b b g e e c c b
+d d a i h f c h b b c g a i g c i h e d b c f f c e i e h h
+h g e i d b h e i e e c i b i a g h a d h g h g a d b d h f
+3 28
+26 23

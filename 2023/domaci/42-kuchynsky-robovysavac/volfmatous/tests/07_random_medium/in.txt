@@ -1,0 +1,43 @@
+40 40
+g h a j a j i j a h d e c j a c j e h b j f i i i c e h a d a j c j j i g e c h
+d f g h a i h b h g f g c i e e d a j h g b f j d e g j a i g h b c g c b f i g
+j f a i a f i h f i g i g c i h a h j b e e i c h d j h h c d i e j a c d f j j
+d e j c c b i h j j a g b g j e i b d g j g a j f j b a c a j d a j j b i a h f
+b g c j d a e e h i c d i a b b a d i j d j g d b b d e f d a a d g f h f f a h
+b f e i g i b a c j c j c i c c f i j c i h j d h e b i b e f i d c g h g a a c
+a e b f c e c g j a d j c a a d d e c e e h j g c e b a d f e f j h b i e i g h
+f c a e e j a a j i d b e j c b g i d a g d g g e i j c h e f a j i d g b b e b
+i e h i h b g c e a f c a d c c h h d f h b i b e d f e f c b j b f e f f a h h
+h g g f f j i a g c h g b i c f h a e c e j h f i c j h e j j a b g h j f c c j
+a g h a e d c d j b g h j c g j b h c a e g d j h a i d i f b e b f j j i g g c
+a i g f b c i a h e b d g f a i h c a g g f i b e i g h h f c h a f b d g h e e
+i e i a j b g g a b f b g f j i c g e d b g b d b h b g h c b d b b f j c e j j
+g e c j d b a d d d f h b h d c d e c j g a f i f j i b i d a b e f c c a j f a
+g b h b e d e i f j g c i i i f h a b f d g a f f a h i h c d b j j f g e d a a
+g h e d g h b i e j d f i c f d h d g i d i i e f b i f e d i b d b c j b f i i
+i g d d a c j g e e f d d a c i f g j b e f f e j a g g g h c j i j g i d c b g
+g c f e j i h j b j b c g i f c i e g h g e g i i b j h g c f i j c b a j i g d
+d a b i e j g b e i d f f h b d g g i h f e h e a f f i d b b e j a c i g c e i
+a f h i c d i a i g j d g g i j b e j a j g b a h j g h j e b h d e h g b d a j
+b d f a a a a j e d g b e h d j e i c c h i h g c c g b j i h j j j g d c d d c
+e b g j j a g j b f j d i a e h e e i b c d h c f f e b i g b i d h j d c c j f
+c h g a h d h f e h b e a d f i b g e f d a f h c h e d b d j a f a i i d e i j
+e d g d d g c h e i e g c i h i j d h h i b c i j f g c e a e d f j a i i i d a
+e g d c b f d f i a c e j e j e d g e i j c j j d h i f f j c i f i c c a j a e
+f c c h a j e e b c b i j g j g c g i j a g b i d j b h f e i f a a b a g e d i
+j i g a j a d i a e d i h b g c a g j e b i f d b h g b e j i g h f g e g g e g
+g b a g h e b g a i i j e a f d j j g c i a i g a a b b f i j g a c c h c e g c
+a f d j i b a e g i h c h b f a f f f f a e i d c b e g c h i a i c j a b h d g
+i c a a b g h h h b e e c f d b f i h c c c e h j j f b f j j a a f a h e f d j
+b d c e a d j g h a h j g i h d d a d h j j h b j i g e i d d g a e g i d a h f
+d g d d f h e g g e f c j i e a i g h g f a i g h e b c e c i d a f i c g i f d
+f c c e a b h i b h i c d f g a c b h a d i a d e e f j g j a h d a i a b b a i
+j j h i b f g e c i j a e j a b b i a c a d a e d j g a g a g a c c h j b i h f
+f b d g i i f g c c c d h j c g f h h e b c c e e e d j e f b f j f j e f e f e
+f d g j g i g g i e e c e b e j e i f c i e a g a d c g e g i b j f b d d f f b
+e i e g h b c a c b h f j i b d j i g a a h a h h b i f e f e i h f d b j c c f
+a h c a a e c c b h c c h i d i e j a i d g h b c a j g e b g i a f a c g i a f
+h e e h c h c c c j f c b e h c b f b h c g a d j j f b f c e i j i d j g c f i
+b a g d c e e e i h d d f j c b d b e a f e h j c b f e f a b c h g i f f d d g
+40 38
+4 2

@@ -1,0 +1,2 @@
+a5 b3 xyz c4
+decompress

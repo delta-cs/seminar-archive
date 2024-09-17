@@ -1,0 +1,26 @@
+hacker
+- code
+  - main.py
+  - utils.py
+  - subfolder1
+    - subsubfolder1
+      - subsubsubfolder1
+        - readme.md
+        - requirements.txt
+        - subsubsubsubfolder1
+          - README.md
+          - requirements.txt
+- documents
+  - important.docx
+  - meeting_notes.docx
+  - subfolder3
+    - subsubfolder3
+- pictures
+  - landscape.jpg
+  - screenshot.png
+  - subfolder4
+- projects
+  - README.md
+  - requirements.txt
+  - subfolder2
+    - subsubfolder2

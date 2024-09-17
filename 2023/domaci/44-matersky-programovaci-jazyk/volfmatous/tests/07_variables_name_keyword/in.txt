@@ -1,0 +1,14 @@
+13
+x je 5
+x1 je x bez 4 a 3 bez x a x bez -1 a -4
+velmiDlouhyNazevProPromennou3VelmiDlouhyNazevProPromennou4VelmiDlouhyNazevProPromennou5VelmiDlouhyNazevProPromennou6 je x bez x1 a -16.3 a x
+
+x je x a 1
+x1 je x1 bez x1
+velmiDlouhyNazevProPromennou3VelmiDlouhyNazevProPromennou4VelmiDlouhyNazevProPromennou5VelmiDlouhyNazevProPromennou6 je 0 bez x a x1 bez x1 bez 0 a 0 a 1
+
+vypsat x
+vypsat x1
+vypsat velmiDlouhyNazevProPromennou3VelmiDlouhyNazevProPromennou4VelmiDlouhyNazevProPromennou5VelmiDlouhyNazevProPromennou6
+
+a je 3

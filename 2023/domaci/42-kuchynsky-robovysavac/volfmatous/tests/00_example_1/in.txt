@@ -1,0 +1,8 @@
+5 6
+r r r r r r
+r b g g g r
+r b r r r r
+r b b g r r
+r r r r r r
+4 5
+4 2

@@ -1,0 +1,9 @@
+8
+x je 1
+y je 2.1
+z je -3
+
+kdyz x rovno 1.001 tak
+  pi je 3.14
+
+vypsat pi
