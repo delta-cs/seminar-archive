@@ -1,0 +1,4 @@
+>++++++++[<+++++++++>-]<.>++++[<+++++++>-]<+.+++++++..+++.>>++++++[<+++++++>-]<++.
+------------.>++++++[<+++++++++>-]<+.<.+++.------.--------.>>>++++[<++++++++>-]<+.|I'm an input that is not useful to mankind in any way.
+Your program should just ignore me.
+If it does not, that is your problem.

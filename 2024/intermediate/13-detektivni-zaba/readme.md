@@ -1,0 +1,52 @@
+# Detektivní žába
+### Tato úloha je pokračováním úlohy "žába", kterou je dobré vyřešit nejdřív pro pochopení této.
+
+... Žábu během jejího návratu domů zahlédl vrabec a zajímalo ho, z jakého schodu začínala. Žáby se zeptal, ta si ale počáteční pozici už nepamatuje a tak mu alespoň pověděla to, co si pamatovala a to **kolik skoků už udělala.**
+
+---
+
+### Najděte počet všech možných pozic, ze kterých mohla žába startovat
+
+
+#### Pro zopakování, toto jsou pravidla pohybu žáby:
+schod, na kterém se právě žába nachazí: $x$
+- Je li $x$ **liché**, podaří se jí vyskočit na schod číslo $3x+1$
+- Je li $x$ **sudé**, pak se žábě skouzne noha a spadne na $\frac{1}{2}x$
+
+## Vstup
+- na 1. řádku dostanete číslo momentálního schodu $x$
+- na 2. řádku bude číslo $j$ - počet skoků od počátečního schodu
+
+> $j$ bude vždy kladné celé číslo \
+> $x$ bude vždy kladné celé číslo $>=1$
+
+> **POZOR: pokud nepracujete v pythonu nebo Js, $x$ se nemusí vejít do 32-bitového intiegeru, použijte 64-bitový int** *(ve většině jazyků označovaný jako long)*
+
+#### Najděte počet všech unikátních pozic, ze kterých se žába za $j$ skoků mohla dostat na schod $x$
+
+## Výstup
+- Na řádek vypište počet nalezených pozic
+
+## Příklady
+
+1)
+input:
+```
+5
+3
+```
+output:
+```
+2
+```
+
+2)
+input:
+```
+4
+8
+```
+output:
+```
+6
+```

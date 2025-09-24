@@ -1,0 +1,4 @@
+7
+kolo auto vlak letadlo loď tramvaj autobus
+12
+kolo auto vlak letadlo loď tramvaj autobus tramvaj kolo loď auto letadlo
