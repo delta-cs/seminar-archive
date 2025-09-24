@@ -1,0 +1,4 @@
+5
+auto dům stůl židle okno
+8
+auto dům stůl židle okno auto stůl židle

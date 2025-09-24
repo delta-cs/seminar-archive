@@ -1,0 +1,4 @@
+1 No golden ratio
+610 1.62
+0 No golden ratio
+28657 1.62

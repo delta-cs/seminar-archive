@@ -1,0 +1,4 @@
+0 No golden ratio
+1 No golden ratio
+1 1.0
+3 1.5
