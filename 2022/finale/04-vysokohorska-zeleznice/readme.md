@@ -152,12 +152,10 @@ Neexistuje však jedna cesta, po které by se dalo jet tam i zpět, a toto zadá
 1 0
 1 1
 1 2
-0 2
-0 3
 1 3
-1 2
-0 2
 0 3
+0 2
+1 2
 1 3
 1 4
 1 5
